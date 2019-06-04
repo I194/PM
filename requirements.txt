@@ -2,6 +2,6 @@ numpy==1.16.*
 matplotlib==3.*
 ipywidgets
 traitlets
-IPython.display
+IPython
 tkinter
 pandas
