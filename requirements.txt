@@ -3,5 +3,4 @@ matplotlib==3.*
 ipywidgets
 traitlets
 IPython
-tkinter
 pandas
