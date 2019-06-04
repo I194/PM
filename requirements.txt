@@ -1,0 +1,8 @@
+numpy==1.16.*
+matplotlib==3.*
+ipywidgets
+math
+traitlets
+IPython.display
+tkinter
+pandas
