@@ -98,7 +98,6 @@ Pygments==2.4.2
 PyHamcrest==1.9.0
 PyInstaller==3.4
 pyparsing==2.4.0
-pypiwin32==223
 pyrsistent==0.15.1
 python-dateutil==2.7.3
 python-dotenv==0.10.1
