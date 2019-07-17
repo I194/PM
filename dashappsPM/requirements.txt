@@ -99,9 +99,6 @@ PyHamcrest==1.9.0
 PyInstaller==3.4
 pyparsing==2.4.0
 pypiwin32==223
-PyQt5==5.11.3
-PyQt5-sip==4.19.15
-pyqt5-tools==5.11.3.1.4
 pyrsistent==0.15.1
 python-dateutil==2.7.3
 python-dotenv==0.10.1
